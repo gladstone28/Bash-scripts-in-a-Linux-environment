@@ -3,8 +3,9 @@ link to lesson:
 https://www.codecademy.com/courses/introduction-to-linux-bash-scripting/informationals/bash-scripting-what-why
 
 
-Bash Scripting: What & Why?
-Learn how to write Bash scripts in a Linux environment!
+##### Bash Scripting: What & Why?
+
+**Learn how to write Bash scripts in a Linux environment!**
 
 So far, we’ve covered how Bash works on the command line. Bash scripts are a level up from individual commands, as powerful as they are. In Linux or any environment with a Bash shell, Bash scripts are files we can write to programmatically call Bash commands.
 
